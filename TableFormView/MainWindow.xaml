@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TableFormView"
         mc:Ignorable="d"
-        Title="MainWindow" Height="408" Width="783">
+        Title="DataGridView" Height="408" Width="783">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="80"/>
